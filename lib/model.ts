@@ -84,7 +84,7 @@ export const MODEL: ModelConstants = {
   ratio_floor: 0.005,
   ratio_cap: 20,
   trim_fraction: 0.1,
-  prior_peers: 4,
+  prior_peers: 8,
   growth_weight: 0.6,
   growth_floor: -50,
   growth_cap: 100,
